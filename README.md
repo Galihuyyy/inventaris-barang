@@ -9,7 +9,7 @@
 1. Clone this project to your local computer
    
    ```bash
-   git clone https://github.com/Galihuyyy/web-kecamatan-backend.git
+   git clone https://github.com/Galihuyyy/inventaris-barang.git
    ```
    ```bash
    cd project-name/backend_laravel
